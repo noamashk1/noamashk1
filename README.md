@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My name is Noam Ashkenazi
-- 🔭 I’m currently working on Educage- A special cage that performs behavioral experiments on mice. Check it out [here] ()
+- 🔭 I’m currently working on Educage- A special cage that performs behavioral experiments on mice. Check it out [here](https://github.com/noamashk1/educage2)
 - :mortar_board: I am currently studying medicine, but I have a BSc in Psychology and Neuroscience in addition to various courses in Computer Science.
 
 <!--
