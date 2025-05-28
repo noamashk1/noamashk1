@@ -1,7 +1,9 @@
 ## Hi there 👋
-- My name is Noam Ashkenazi
-- 🔭 I’m currently working on Educage- A special cage that performs behavioral experiments on mice. Check it out [here](https://github.com/noamashk1/educage2)
-- :mortar_board: I am currently studying medicine, but I have a BSc in Psychology and Neuroscience in addition to various courses in Computer Science.
+
+ My name is Noam Ashkenazi :boy:
+ 
+- :wrench: I’m currently working on Educage- A special cage that performs behavioral experiments on mice. Check it out [here](https://github.com/noamashk1/educage2)
+- :mortar_board: I am currently studying medicine , but I have a BSc in Psychology and Neuroscience in addition to various courses in Computer Science.
 
 <!--
 **noamashk1/noamashk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+:pill:
+:computer:
+:brain:
 -->
